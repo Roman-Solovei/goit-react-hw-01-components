@@ -5,6 +5,7 @@ import FriendListItem from './friendlistItem'
 
 
 export default function FriendList({ friends }) {
+    // console.log(friends.avatar)
     return <ul className={s.friendList}>
         {friends.map(friend => (
                     
