@@ -28,11 +28,13 @@
   padding-left: 50px;
   text-transform: capitalize;
   text-align: start;
+  font-size: 14px;
 }
 
 .tableData {
-  padding: auto;
+  padding: 12px;
   border-left: 1px solid rgb(233, 233, 233);
+  font-size: 14px;
 }
 
 .tableLine {
